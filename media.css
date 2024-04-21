@@ -1,0 +1,173 @@
+@media (min-width: 993px) and (max-width: 1300px){
+    .nav2{
+        display: none;
+    }
+    .nav1{
+        width: 30%;
+    }
+    .btn{
+        display: block;
+    }
+    .btn1{
+        display: none;
+    }
+    #r1 h1{
+        font-size: 70px;
+    }
+    #r1 #img1{
+        height: 70px;
+    }
+    .btn2{
+        display: none;
+    }
+    .img2{
+        display: none;
+    }
+    .box2{
+        height: 500px;
+        width: 90%;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 992px){
+    .nav2{
+        display: none;
+    }
+    .nav1{
+        width: 30%;
+    }
+    .btn{
+        display: block;
+    }
+    .btn1{
+        display: none;
+    }
+    #r1 h1{
+        font-size: 50px;
+    }
+    #r1 #img1{
+        height: 50px;
+    }
+    .main3 marquee{
+        height: 1200px;
+    }
+    .main3{
+        position: absolute;
+        left: 50%;
+        bottom: 50px;
+        transform: rotate(-40deg);
+    }
+    #r1{
+        height: 58vh;
+    }
+    .btn2{
+        display: none;
+    }
+    .img2{
+        display: none;
+    }
+    .box2{
+        width: 100%;
+    }
+    .box4{
+        width: 100%;
+    }
+}
+
+@media (min-width: 577px) and (max-width: 768px){
+    .nav2{
+        display: none;
+    }
+    .nav1{
+        width: 40%;
+    }
+    .btn{
+        display: block;
+    }
+    .btn1{
+        display: none;
+    }
+    #r1 h1{
+        font-size: 40px;
+    }
+    #r1 #img1{
+        height: 40px;
+    }
+    #col1{
+        display: none;
+    }
+    #r1{
+        height: 43vh;
+    }
+    #col2{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    .btn2{
+        display: none;
+    }
+    .img2{
+        display: none;
+    }
+    .box2{
+        height: 500px;
+        width: 100%;
+    }
+    .box4{
+        width: 100%;
+    }
+}
+
+@media (min-width: 0px) and (max-width: 576px){
+    .nav2{
+        display: none;
+    }
+    .nav1{
+        width: 50%;
+    }
+    .btn{
+        display: block;
+    }
+    .btn1{
+        display: none;
+    }
+    #r1 h1{
+        font-size: 25px;
+    }
+    #r1 #img1{
+        height: 20px;
+    }
+    #col1{
+        display: none;
+    }
+    .main2 header{
+        height: 50px;
+    }    
+    #col2{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: start;
+    }
+    .nav1 img{
+        margin-top: 10px;
+    }
+    #r1{
+        height: 25vh;
+    }
+    .btn2{
+        display: none;
+    }
+    .img2{
+        display: none;
+    }
+    .box2{
+        height: 300px;
+        width: 100%;
+    }
+    .box4{
+        height: 300px;
+        width: 100%;
+    }
+}
